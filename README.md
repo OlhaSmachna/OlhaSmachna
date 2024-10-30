@@ -50,4 +50,9 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/VISUAL%20STUDIO-%236E219D?style=for-the-badge"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20CODE-%230098FF?style=for-the-badge"/>
   </p>
+  <h4 align="left">Other skills</h4>
+  <p align="left">
+    <img alt="Photoshop" src="https://img.shields.io/badge/PHOTOSHOP-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=%23FFF"/>
+    <img alt="Illustrator" src="https://img.shields.io/badge/ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=%23FFF"/>
+  </p>
 </div>
