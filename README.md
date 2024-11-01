@@ -12,7 +12,7 @@
       <td>Angular web interface for Lego inventory management app featured in my masters diploma project written on the topic of optimizing database structure, functioning and it's interacrions with other application components.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/OlhaSmachna/LegoProjectApi">Lego inventory manager<br/>(api server)</a></td>
+      <td><a href="https://github.com/OlhaSmachna/LegoProjectApiV2">Lego inventory manager<br/>(api server)</a></td>
       <td>.Net Core API server for Lego inventory management app.</td>
     </tr>
     <tr>
