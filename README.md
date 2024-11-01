@@ -1,32 +1,39 @@
 <div align="center">
   <h3>Hi 👋, I'm Olha</h3>
-  <p align="center">Currently studying & looking for a job as a software engineer / web developer</p>
-  <p align="center">C# .NET / PHP LARAVEL / Javascript / Angular / learning UNITY</p>
-  <h4 align="left">Here's some of my portfolio projects</h4> 
-  <table align="left">
+  <p>Currently studying & looking for a job as a software engineer / web developer</p>
+  <p>C# .NET / PHP LARAVEL / Javascript / Angular / learning UNITY</p>
+</div>
+
+<div align = "left">
+  <h4>Here's some of my portfolio projects</h4> 
+  <table>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/LegoProjectFront">Lego inventory manager (app)</a></td>
       <td>Angular web interface for Lego inventory management app featured in my masters diploma project written on the topic of optimizing database structure, functioning and it's interacrions with other application components.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/OlhaSmachna/LegoProjectApi">Lego inventory manager<br>(api server)</a></td>
+      <td><a href="https://github.com/OlhaSmachna/LegoProjectApi">Lego inventory manager<br/>(api server)</a></td>
       <td>.Net Core API server for Lego inventory management app</td>
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/AngularExamApp">Genshin Impact character resources calculator (app)</a></td>
-      <td>Angular exam project featuring game-helper style app for Genshin Impact character progression and resource management.<br>Genshin Impact, characters and visual resources are intellectual property of miHoYo.</td>
+      <td>Angular exam project featuring game-helper style app for Genshin Impact character progression and resource management.<br/>Genshin Impact, characters and visual resources are intellectual property of miHoYo.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/OlhaSmachna/AngularExamServer">Genshin Impact character resources calculator<br>(express server)</a></td>
+      <td><a href="https://github.com/OlhaSmachna/AngularExamServer">Genshin Impact character resources calculator<br/>(express server)</a></td>
       <td>Simple JS express server for my Angular exam project</td>
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/TeamProjectAngular">Angular page layouts & widgets</a></td>
       <td>Angular group study project aiming to recreate some complex page layouts and customizable widgets following example</td>
     </tr>
-  </table> 
-  <h4 align="left">Frontend skills</h4>
-  <p align="left">
+  </table>
+</div>
+
+
+<div align = "left">
+  <h4>Frontend skills</h4>
+  <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFF">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23FFF">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23FFF">
@@ -37,8 +44,11 @@
     <img alt="Angular Material" src="https://img.shields.io/badge/ANGULAR%20MATERIAL-%23005CBB?style=for-the-badge&logo=angular&logoColor=%23FFF">
     <img alt="Cloudinary" src="https://img.shields.io/badge/CLOUDINARY-%233448C5?style=for-the-badge&logo=cloudinary&logoColor=%23FFF">
   </p>
-  <h4 align="left">Backend skills</h4>
-  <p align="left">
+</div>
+
+<div align = "left">
+  <h4>Backend skills</h4>
+  <p>
     <img alt="C#" src="https://img.shields.io/badge/C%23-%239843AF?style=for-the-badge">
     <img alt=".NET" src="https://img.shields.io/badge/.NET%20CORE-%23512BD4?style=for-the-badge">
     <img alt="Entity Framework" src="https://img.shields.io/badge/ENTITY%20FRAMEWORK-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=%23FFF">
@@ -53,8 +63,11 @@
     <img alt="Rabbit" src="https://img.shields.io/badge/RABBITMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=%23FFF">
     <img alt="Cloudinary" src="https://img.shields.io/badge/CLOUDINARY-%233448C5?style=for-the-badge&logo=cloudinary&logoColor=%23FFF">
   </p>
-  <h4 align="left">DevOps & Tools</h4>
-  <p align="left">
+</div>
+
+<div align = "left">
+  <h4>DevOps & Tools</h4>
+  <p>
     <img alt="Docker" src="https://img.shields.io/badge/DOCKER-%232496ED?style=for-the-badge&logo=docker&logoColor=%23FFF"/>
     <img alt="Git" src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFF"/>
     <img alt="Trello" src="https://img.shields.io/badge/TRELLO-%230052CC?style=for-the-badge&logo=trello&logoColor=%23FFF"/>
@@ -62,8 +75,11 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/VISUAL%20STUDIO-%236E219D?style=for-the-badge"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20CODE-%230098FF?style=for-the-badge"/>
   </p>
-  <h4 align="left">Other skills</h4>
-  <p align="left">
+</div>
+      
+<div align = "left">  
+  <h4>Other skills</h4>
+  <p>
     <img alt="Photoshop" src="https://img.shields.io/badge/PHOTOSHOP-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=%23FFF"/>
     <img alt="Illustrator" src="https://img.shields.io/badge/ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=%23FFF"/>
   </p>
