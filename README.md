@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/LegoProjectApi">Lego inventory manager<br/>(api server)</a></td>
-      <td>.Net Core API server for Lego inventory management app</td>
+      <td>.Net Core API server for Lego inventory management app.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/AngularExamApp">Genshin Impact character resources calculator (app)</a></td>
@@ -21,11 +21,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/AngularExamServer">Genshin Impact character resources calculator<br/>(express server)</a></td>
-      <td>Simple JS express server for my Angular exam project</td>
+      <td>Simple JS express server for my Angular exam project.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/TeamProjectAngular">Angular page layouts & widgets</a></td>
-      <td>Angular group study project aiming to recreate some complex page layouts and customizable widgets following example</td>
+      <td>Angular group study project aiming to recreate some complex page layouts and customizable widgets following example.</td>
     </tr>
   </table>
 </div>
