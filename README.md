@@ -27,6 +27,14 @@
       <td><a href="https://github.com/OlhaSmachna/TeamProjectAngular">Angular page layouts & widgets</a></td>
       <td>Angular group study project aiming to recreate some complex page layouts and customizable widgets following example.</td>
     </tr>
+    <tr>
+      <td><a href="#">Video game store website</a></td>
+      <td>Old PHP + Laravel exam project.</td>
+    </tr>
+    <tr>
+      <td><a href="#">Unity 2D side-scrolling platformer</a></td>
+      <td>Unity study project.</td>
+    </tr>
   </table>
 </div>
 
