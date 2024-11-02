@@ -8,7 +8,7 @@
   <h4>Here's some of my portfolio projects</h4> 
   <table>
     <tr>
-      <td><a href="https://github.com/OlhaSmachna/LegoProjectFront">Lego inventory manager (app)</a></td>
+      <td><a href="https://github.com/OlhaSmachna/LegoProjectFrontV2">Lego inventory manager (app)</a></td>
       <td>Angular web interface for Lego inventory management app featured in my masters diploma project written on the topic of optimizing database structure, functioning and it's interacrions with other application components.</td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
       <td>Angular group study project aiming to recreate some complex page layouts and customizable widgets following example.</td>
     </tr>
     <tr>
-      <td><a href="#">Video game store website</a></td>
+      <td><a href="https://github.com/OlhaSmachna/ComingSoon">Video game store website</a></td>
       <td>Old PHP + Laravel exam project.</td>
     </tr>
     <tr>
