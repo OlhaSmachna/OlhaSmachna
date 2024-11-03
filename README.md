@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/dpp5ocil3/image/upload/v1730625760/portfolio%20images/ReadmeBanner.png" width="100%"/>
+
 <div align="center">
   <h3>Hello world, name's Olha</h3>
   <p>Currently studying & looking for a job as a software engineer / web developer</p>
