@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dpp5ocil3/image/upload/v1730625760/portfolio%20images/ReadmeBanner.png" width="100%"/>
+<img alt="ReadMe Banner" src="https://res.cloudinary.com/dpp5ocil3/image/upload/v1730625760/portfolio%20images/ReadmeBanner.png" width="100%"/>
 
 <div align="center">
   <h3>Hello world, name's Olha</h3>
@@ -92,5 +92,6 @@
   <p>
     <img alt="Photoshop" src="https://img.shields.io/badge/PHOTOSHOP-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=%23FFF"/>
     <img alt="Illustrator" src="https://img.shields.io/badge/ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=%23FFF"/>
+    <img alt="Unity" src="https://img.shields.io/badge/UNITY-%2320232A?style=for-the-badge&logo=unity&logoColor=%23FFF"/>
   </p>
 </div>
