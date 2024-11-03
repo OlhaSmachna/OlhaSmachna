@@ -88,7 +88,7 @@
 </div>
       
 <div align = "left">  
-  <h4>Other skills</h4>
+  <h4>Other</h4>
   <p>
     <img alt="Photoshop" src="https://img.shields.io/badge/PHOTOSHOP-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=%23FFF"/>
     <img alt="Illustrator" src="https://img.shields.io/badge/ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=%23FFF"/>
