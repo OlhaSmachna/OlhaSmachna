@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi 👋, I'm Olha</h3>
+  <h3>Hello world, name's Olha</h3>
   <p>Currently studying & looking for a job as a software engineer / web developer</p>
   <p>C# .NET / PHP LARAVEL / Javascript / Angular / learning UNITY</p>
 </div>
@@ -28,7 +28,7 @@
       <td>Angular group study project aiming to recreate some complex page layouts and customizable widgets following example.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/OlhaSmachna/ComingSoon">Video game store website</a></td>
+      <td><a href="https://github.com/OlhaSmachna/OlhaSmachna/ProjectUnderConstruction.md">Video game store website</a></td>
       <td>Old PHP + Laravel exam project.</td>
     </tr>
     <tr>
