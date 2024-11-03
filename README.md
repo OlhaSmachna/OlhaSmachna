@@ -34,7 +34,7 @@
       <td>Old PHP + Laravel exam project.</td>
     </tr>
     <tr>
-      <td><a href="#">Unity 2D side-scrolling platformer</a></td>
+      <td><a href="https://github.com/OlhaSmachna/UnityTestGame">Unity 2D side-scrolling platformer</a></td>
       <td>Ongoing Unity study project. Figuring out shaders & playing with assets.</td>
     </tr>
   </table>
