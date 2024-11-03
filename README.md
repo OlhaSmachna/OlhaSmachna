@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td><a href="#">Unity 2D side-scrolling platformer</a></td>
-      <td>Unity study project.</td>
+      <td>Ongoing Unity study project. Figuring out shaders & playing with assets.</td>
     </tr>
   </table>
 </div>
