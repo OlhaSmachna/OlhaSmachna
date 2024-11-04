@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/LegoProjectFrontV2">Lego inventory manager (app)</a></td>
-      <td>Angular web interface for Lego inventory management app featured in my masters diploma project written on the topic of optimizing database structure, functioning and it's interacrions with other application components.</td>
+      <td>Angular web interface for Lego inventory management app featured in my Master's diploma project written on the topic of optimizing database structure, functioning and it's interacrions with other application components.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/LegoProjectApiV2">Lego inventory manager<br/>(api server)</a></td>
