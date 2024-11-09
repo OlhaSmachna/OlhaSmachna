@@ -10,11 +10,11 @@
   <h4>Here's some of my portfolio projects</h4> 
   <table>
     <tr>
-      <td>⭐<a href="https://github.com/OlhaSmachna/LegoProjectFrontV2">Lego inventory manager (app)</a></td>
+      <td><div align="center">⭐⭐⭐</div><a href="https://github.com/OlhaSmachna/LegoProjectFrontV2">Lego inventory manager (app)</a></td>
       <td>Angular web interface for Lego inventory management app featured in my Master's diploma project written on the topic of optimizing database structure, functioning and it's interacrions with other application components.</td>
     </tr>
     <tr>
-      <td>⭐<a href="https://github.com/OlhaSmachna/LegoProjectApiV2">Lego inventory manager<br/>(api server)</a></td>
+      <td><div align="center">⭐⭐⭐</div><a href="https://github.com/OlhaSmachna/LegoProjectApiV2">Lego inventory manager<br/>(api server)</a></td>
       <td>.Net Core API server for Lego inventory management app.</td>
     </tr>
     <tr>
