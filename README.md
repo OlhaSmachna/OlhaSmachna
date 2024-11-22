@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/PushRelabel">Graph max flow problem</a></td>
-      <td>Push–Relabel maximum flow algorithm with a (very) simple WPF UI</td>
+      <td>Push–Relabel maximum flow algorithm with a (very) simple WPF UI.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/UnityTestGame">Unity 2D side-scrolling platformer</a></td>
