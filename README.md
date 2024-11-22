@@ -30,8 +30,8 @@
       <td>Angular group study project aiming to recreate some complex page layouts and customizable widgets following example.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/OlhaSmachna/OlhaSmachna/blob/main/ProjectUnderConstruction.md">Video game store website</a></td>
-      <td>Old PHP + Laravel exam project.</td>
+      <td><a href="https://github.com/OlhaSmachna/PushRelabel">Graph max flow problem</a></td>
+      <td>Push–Relabel maximum flow algorithm with a (very) simple WPF UI</td>
     </tr>
     <tr>
       <td><a href="https://github.com/OlhaSmachna/UnityTestGame">Unity 2D side-scrolling platformer</a></td>
