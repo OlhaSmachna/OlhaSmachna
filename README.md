@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Hello world, name's Olha</h3>
-  <p>Currently studying & looking for a job as a software engineer / web developer</p>
+  <p>Junior C# Developer at Digitum Ukraine</p>
   <p>C# .NET / PHP LARAVEL / Javascript / Angular / learning UNITY</p>
 </div>
 
